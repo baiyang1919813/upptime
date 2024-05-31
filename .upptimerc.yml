@@ -5,3 +5,5 @@ repo: upptime # The name of this repository
 sites:
   - name: Bot
     url: https://tg-manga-bot-8gz7.onrender.com
+    expectedStatusCodes:
+      - 404
