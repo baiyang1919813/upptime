@@ -7,3 +7,6 @@ sites:
     url: https://tg-manga-bot-8gz7.onrender.com
     expectedStatusCodes:
       - 404
+
+workflowSchedule:
+  updates: "5 * * * *"
