@@ -10,3 +10,7 @@ sites:
 
 workflowSchedule:
   updates: "5 * * * *"
+
+status-website:
+  baseUrl: /upptime
+  name: Status Website
