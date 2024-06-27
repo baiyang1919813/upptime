@@ -4,17 +4,19 @@
     "url": "https://tg-manga-bot-8gz7.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/tg-manga-bot-8gz7.onrender.com.ico",
     "slug": "bot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 382,
-    "timeDay": 169,
-    "timeWeek": 186,
-    "timeMonth": 382,
-    "timeYear": 382,
-    "dailyMinutesDown": {}
+    "time": 380,
+    "timeDay": 232,
+    "timeWeek": 189,
+    "timeMonth": 380,
+    "timeYear": 380,
+    "dailyMinutesDown": {
+      "2024-06-27": 0
+    }
   }
 ]
