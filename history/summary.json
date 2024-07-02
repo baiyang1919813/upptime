@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/tg-manga-bot-8gz7.onrender.com.ico",
     "slug": "bot",
     "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.05%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.79%",
-    "time": 387,
-    "timeDay": 856,
-    "timeWeek": 351,
+    "uptime": "99.81%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.81%",
+    "time": 383,
+    "timeDay": 855,
+    "timeWeek": 354,
     "timeMonth": 399,
-    "timeYear": 387,
+    "timeYear": 383,
     "dailyMinutesDown": {
-      "2024-07-01": 8,
       "2024-06-27": 88
     }
   }
