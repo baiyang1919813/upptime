@@ -4,7 +4,7 @@
     "url": "https://tg-manga-bot-8gz7.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/tg-manga-bot-8gz7.onrender.com.ico",
     "slug": "bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.61%",
@@ -16,6 +16,7 @@
     "timeMonth": 372,
     "timeYear": 367,
     "dailyMinutesDown": {
+      "2024-07-05": 0,
       "2024-07-02": 39,
       "2024-06-27": 88
     }
