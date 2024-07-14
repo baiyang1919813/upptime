@@ -9,7 +9,7 @@ sites:
       - 404
 
 workflowSchedule:
-  updates: "5 * * * *"
+  updates: "10 * * * *"
 
 status-website:
   baseUrl: /upptime
